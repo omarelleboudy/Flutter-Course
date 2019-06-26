@@ -1,4 +1,4 @@
-I Am Rich, the First Application.
+#I Am Rich, the First Application.
 
 A very simple Flutter application.
 
