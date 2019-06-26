@@ -1,4 +1,4 @@
-# Mi Card, the Third Application
+# Mi Card, the Third Application.
 
 This is simply an application made in the vision of a business card.
 
