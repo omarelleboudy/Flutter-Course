@@ -1,6 +1,4 @@
-# i_am_poor
-
-Second App.
+# I Am Poor, Second App.
 
 This was just a mini challenge to remake the first Application from scratch.
 

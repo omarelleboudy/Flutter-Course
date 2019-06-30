@@ -1,6 +1,6 @@
-# i_am_rich
+# I Am Rich, the First Application.
 
-A new, very simple Flutter application.
+A very simple Flutter application.
 
 The idea behind this application was to start getting used to how widgets work.
 
