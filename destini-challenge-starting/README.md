@@ -1,15 +1,22 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
-# Destini 🤔
+# Destini, the 8th Application and 2nd Boss Challenge.
 
-## Our Goal
+## The Goal
 
-In this challenge, you will be building a choose your own adventure game like Bandersnatch. In the process, you should apply your knowledge from the last module (Quizzler) to use Dart OOP principles to build a well organised project.
+In this challenge, I was to build a choose your own adventure game. The knowledge gained in the previous module, Quizzler, was to be applied here. The steps to be taken were set as TODOs in the files.
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
+The game has 3 Endings, each based on the choices made.
 
+# Ending 1
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+![alt-text](https://media.giphy.com/media/LmxTQcBcPcwU0EMA1e/giphy.gif)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+# Ending 2
+
+![alt-text](https://media.giphy.com/media/IeoKtoQ5GUndfEP4UJ/giphy.gif)
+
+# Ending 3
+
+![alt-text](https://media.giphy.com/media/L3296mMslDqu0Al5zF/giphy.gif)
+
