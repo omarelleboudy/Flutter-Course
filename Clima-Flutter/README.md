@@ -13,4 +13,3 @@ The objective of this tutorial was to learn about asynchronous programming in Da
 It's a weather app that grabs the current location of the device or the given City name and prints out the temperature, along with a message.
 
 
-![alt-text](https://media.giphy.com/media/fsPhz2SO1aYGMrVaUl/giphy.gif)
