@@ -10,7 +10,7 @@ The objective of this tutorial was to learn about asynchronous programming in Da
 
 ## What this app does:
 
-It's a weather app that grabs the current location of the device or the given City name and prints out the temperature, along with a message.
+It's a weather app that grabs the current location of the device or the given City name and prints out the temperature, along with a message. Tapping the button at the top left gets the current location once again.
 
 The weather API that was used : https://openweathermap.org/api
 
