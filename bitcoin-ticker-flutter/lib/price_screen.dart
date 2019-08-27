@@ -99,7 +99,6 @@ class _PriceScreenState extends State<PriceScreen> {
             children: <Widget>[
               CryptoCard(
                 cryptoCurrency: 'BTC',
-                //7. Finally, we use a ternary operator to check if we are waiting and if so, we'll display a '?' otherwise we'll show the actual price data.
                 value: isWaiting ? '?' : coinValues['BTC'],
                 selectedCurrency: selectedCurrency,
               ),
@@ -151,7 +150,7 @@ class CryptoCard extends StatelessWidget {
         child: Padding(
           padding: EdgeInsets.symmetric(vertical: 15.0, horizontal: 28.0),
           child: Text(
-            '1 BTC = $value $selectedCurrency',
+            '1 $cryptoCurrency = $value $selectedCurrency',
             textAlign: TextAlign.center,
             style: TextStyle(
               fontSize: 20.0,
